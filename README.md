@@ -13,9 +13,9 @@ install
 enjoy
 
 ## UserParameter
----
+
 UserParameter=get.nagiostats,/etc/zabbix/scripts/get-nagiostats.sh
 
 ## Script
----
+
 get-nagiostats.sh
