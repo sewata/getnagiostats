@@ -1,4 +1,4 @@
-# nagiostats
+# zabbix template nagiostats
 
 get nagios's statistics with nagiostats
 
