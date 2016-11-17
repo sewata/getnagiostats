@@ -2,6 +2,8 @@
 
 get nagios's statistics with nagiostats
 
+（Nagios 3.x）
+
 install
 
 1. add zabbix user into nagios group to execute nagiostats.
