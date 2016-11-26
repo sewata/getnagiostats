@@ -21,3 +21,7 @@ UserParameter=get.nagiostats,/etc/zabbix/scripts/get-nagiostats.sh
 ## Script
 
 get-nagiostats.sh
+
+=20161126
+
+Added Graphs and Screen in the template.
